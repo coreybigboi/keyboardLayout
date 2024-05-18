@@ -8,7 +8,7 @@ My keyboard is the [ZSA Voyager](https://www.zsa.io/voyager), which has 52 keys.
 
 ## 0. Base Layer
 
-This layer contains all the expected stuff in QWERTY layout. There are some small changes such as Esc where CAPS normally is (shoutout VIM users). 
+This layer contains all the expected stuff in QWERTY layout. There are some small changes such as Esc where CAPS normally is (shoutout Vim users). 
 
 ![Layer 1](./layer1.PNG)
 
