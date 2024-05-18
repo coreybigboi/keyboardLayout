@@ -6,7 +6,7 @@ I have to type a lot. This means that I want an efficient keyboard layout that i
 
 ## Layout
 
-My keyboard is the ZSA Voyager, which has 52 keys. I try to use the top row as little as possible for MAXIMUM ERGONOMICS.
+My keyboard is the [ZSA Voyager](https://www.zsa.io/voyager), which has 52 keys. I try to use the top row as little as possible for MAXIMUM ERGONOMICS.
 
 ### 0. Base Layer
 
