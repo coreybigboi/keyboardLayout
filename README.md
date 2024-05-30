@@ -14,7 +14,7 @@ This layer contains all the expected stuff in QWERTY layout. There are some smal
 
 ## 1. Numbers / Symbols Layer
 
-All numbers / symbols live here. Symbols such as ! and @ are typed using shifted numbers. This keeps you on the home row and re-uses muscle memory from traditional keyboards. Some other details are:
+All numbers / symbols live here. Symbols such as ! and @ are typed using shifted numbers. This keeps you on the home row and re-uses muscle memory from traditional keyboards. The motion for these symbols is holding down both large thumb keys. Some other details for this layer are:
 
 - Symbols on the bottom row use the same finger for shifted / unshifted version of key on traditional keyboard: `-_`, `+=`, `|\`
 - ` key uses same pinky movement as " and '.
