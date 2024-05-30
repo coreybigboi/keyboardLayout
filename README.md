@@ -8,7 +8,13 @@ My keyboard is the [ZSA Voyager](https://www.zsa.io/voyager), which has 52 keys.
 
 ## 0. Base Layer
 
-This layer contains all the expected stuff in QWERTY layout. There are some small changes such as Esc where CAPS normally is (shoutout Vim users). 
+This layer contains all the expected stuff in QWERTY layout. There are some small changes such as Esc where CAPS normally is (shoutout Vim users). Other details are:
+
+- Delete key is positioned closer to be more accessible.
+- Home row mods on each side, where each finger is assigned a specific modifier (eg. shift on both index fingers).
+- Modifier keys are also present on the thumb cluster as an alternative.
+- Shift is placed on the large right thumb button to make typing shifted numbers on Layer 1 feel more intuitive, as Layer 1 is accessed through holding the large left thumb key.
+- Function keys replace number keys on this layer as they are used less, which is why it's okay for them to be more than one row away from the home row. Having function keys on the base layer also makes actions such as Alt+F4 easier. 
 
 ![Layer 0](./layer0.PNG)
 
