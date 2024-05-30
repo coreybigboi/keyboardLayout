@@ -16,7 +16,7 @@ This layer contains all the expected stuff in QWERTY layout. There are some smal
 
 All numbers / symbols live here. Symbols such as ! and @ are typed using shifted numbers. This keeps you on the home row and re-uses muscle memory from traditional keyboards. Some other details are:
 
-- Symbols on the bottom row use the same finger for shifted / unshifted version of key on traditional keyboard: `-_` `+=` `|\`
+- Symbols on the bottom row use the same finger for shifted / unshifted version of key on traditional keyboard: `-_`, `+=`, `|\`
 - ` key uses same pinky movement as " and '.
 - Bracket types all open and close with the same finger. 
 
