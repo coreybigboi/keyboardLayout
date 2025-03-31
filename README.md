@@ -13,21 +13,18 @@ The main layout uses 34 keys, with each layer responsible for one purpose.
 This layer contains all the expected stuff in QWERTY layout. 
 
 - Home row mods on each side, where each finger is assigned a specific modifier (eg. shift on both index fingers).
+- Each layer is available by holding down a thumb key (except gaming layer, which uses key on unused row).
 
 ### Combos
 - F + J => CAPSWORD
-- Both inner thumb keys => delete
-- Both out thumb keys => tab
+- Both inner thumb keys => DELETE
+- Both out thumb keys => TAB
 
 ![Layer 0](./layer0.PNG)
 
 ## 1. Numbers / Symbols Layer
 
 All numbers live here, following the same layout as a traditional keyboard, but on the home row. 
-
-- Symbols on the bottom row use the same finger for shifted / unshifted version of key on traditional keyboard: `-_`, `+=`, `|\`
-- ` key uses same pinky movement as " and '.
-- Bracket types all open and close with the same finger. 
 
 ![Layer 1](./layer1.PNG)
 
