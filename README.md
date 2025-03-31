@@ -22,7 +22,7 @@ This layer contains all the expected stuff in QWERTY layout.
 
 ![Layer 0](./layer0.PNG)
 
-## 1. Numbers / Symbols Layer
+## 1. Numbers Layer
 
 All numbers live here, following the same layout as a traditional keyboard, but on the home row. 
 
@@ -36,7 +36,7 @@ All numbers live here, following the same layout as a traditional keyboard, but 
 
 ![Layer 2](./layer2.PNG)
 
-## 3. Navigation / Media Controls Layer
+## 3. Navigation Layer
  
 - Arrow keys are placed in the same position as Vim motions movement. Home/End and PageUp/PageDown have also been placed to match the arrow key placement for less mental overhead.
 - Left hand has mouse controls, with click actions on the right hand. 
