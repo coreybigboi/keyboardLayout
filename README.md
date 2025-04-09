@@ -53,6 +53,10 @@ All numbers live here, following the same layout as a traditional keyboard, but 
 
 ## 5. Gaming Layer
 
-Changes the keys to be more friendly for playing games. Keys shifted over to keep comfort from column stagger. Most used gaming keys on left side, with quick save / load, screenshot, and volume controls on right side. 
+Changes the keys to be more friendly for playing games. Keys shifted over 1 column to keep comfort with the column stagger. This means that WASD are in the position of ESDF. The intention of this is so that your hands stay in the home position while still being able to use normal game key bindings. It also feels great to have shift directly under the pinky finger. In the spirit of normal game key binds, common keys have been moved to be more accessible, including I (inventory), M (map), G (grenade), and J (journal). 
+
+The most used gaming keys are on the left side, with quick save / load, screenshot, and volume controls on right side. 
+
+I have found this setup to be way more comfortable than traditional gaming keyboards and highly recommend giving it a go!
 
 ![Layer 5](./layer5.PNG)
